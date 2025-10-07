@@ -1,5 +1,5 @@
 # INFOSYS RESTART PROGRAM - COMPREHENSIVE INTERVIEW GUIDE 2025
-# ==================================================================
+# =======
 
 **Document Structure:**
 1. [Quick Reference Cheatsheets](#cheatsheets) (Start Here for Quick Reference)
@@ -9,7 +9,7 @@
 
 <a name="cheatsheets"></a>
 # QUICK REFERENCE CHEATSHEETS
-# ==================================================================
+# =======
 
 ## PYTHON CHEATSHEET
 ```python
@@ -259,7 +259,7 @@ output "name" {
 
 <a name="profile"></a>
 # PROFILE & FOCUS AREAS
-# ==================================================================
+# =======
 
 ## PROFILE OVERVIEW
 - 8 years prior experience (TCS: COBOL, Unix, C)
@@ -277,7 +277,7 @@ output "name" {
 
 <a name="examples"></a>
 # DETAILED EXAMPLES & IMPLEMENTATIONS
-# ==================================================================
+# =======
 
 ## SECTION 1: BASIC PYTHON EXAMPLES (FUNDAMENTALS)
 
@@ -654,7 +654,7 @@ resource "aws_s3_bucket" "example" {
 
 <a name="tips"></a>
 # INTERVIEW TIPS & RESOURCES
-# ==================================================================
+# =======
 
 ## INTERVIEW PREPARATION TIPS
 
@@ -709,4 +709,4 @@ Remember:
 - Be confident about your career transition
 
 Good luck with your Infosys Restart Program interview! 🚀
-# ==================================================================
+# =======
